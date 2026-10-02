@@ -1,0 +1,10 @@
+{
+  "extraKnownMarketplaces": {
+    "itcrowd": {
+      "source": { "source": "github", "repo": "itcrowdarg/skills" }
+    }
+  },
+  "enabledPlugins": {
+    "knowledge-base@itcrowd": true
+  }
+}
